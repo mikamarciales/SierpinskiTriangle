@@ -11,7 +11,7 @@ public void draw()
 }
 public void mouseDragged()//optional
 {
-	if()
+	//if()
 }
 public void sierpinski(int x, int y, int len) 
 {
